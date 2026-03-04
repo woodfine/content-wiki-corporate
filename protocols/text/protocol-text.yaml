@@ -1,0 +1,11 @@
+name: TEXT
+description: Strict linguistic protocol for repository documentation, README files, system architecture definitions, and machine-facing text.
+directives:
+  - mandate: "Enforce the ISO 24495-1 Plain Language standard. Sentences must be short, declarative, and factual."
+  - mandate: "Use the imperative mood for all operational instructions (e.g., 'Execute the script', not 'You should execute the script')."
+  - mandate: "Prohibit all marketing adjectives, puffery, and subjective claims. The text must read as a mathematical or operational reality."
+  - mandate: "Prohibit 'AI-isms' including but not limited to: delve, robust, seamless, testament, and ensure."
+  - mandate: "Maintain strict Nomenclature Lock using the ingested Corporate and Project Glossaries."
+  - mandate: "Utilize flat visual hierarchies. Prohibit nested bullet points unless strictly defining a literal directory file tree."
+  - mandate: "Where bilingual output is required, maintain absolute 1-to-1 English/Spanish parity using standard inline separation or dedicated mirroring."
+output_format: "Standard Markdown (.md) or flat text (.txt), optimized for Git repository rendering."

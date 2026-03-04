@@ -1,0 +1,14 @@
+The following table:
+Feature,Legacy Joint Venture,Private Equity,Traditional REIT,Direct-Hold Solutions 
+Asset Sale Required for Exit,Venta de Activos para Salida,P,P,O,O
+Capitalized Interest Permitted,Intereses Capitalizados,P,P,O,O
+Portfolio Diversification,Diversificación de Cartera,O,P,P,P
+Primary Balance Sheet Asset,Activo Principal en Balance,O,O,P,P
+Freely Transferable Ownership,Libre Transmisión,O,O,P,P
+Eligible as Collateral,Elegible como Garantía,O,O,P,P
+Public Registry Access (EDGAR/SEDAR+),Acceso a Registros Públicos,O,O,P,P
+Comprehensive Regulated Reporting,Reporte Regulado Completo,O,O,P,P
+Equity-Based Developer Compensation,Compensación en Acciones,O,O,O,P
+Single Fixed Management Fee,Tarifa de Gestión Única,O,O,O,P
+Debt Right of First Refusal,Derecho de Preferencia en Deuda,O,O,O,P
+Qualified Investment (Major Retailer Anchor),Inversión Calificada,O,O,O,P

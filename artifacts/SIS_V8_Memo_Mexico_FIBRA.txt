@@ -1,0 +1,71 @@
+Woodfine Management Corp. (Woodfine)
+The following table:
+To:,Service Providers /  Prestadores de Servicios
+Date:,"March •, 2026"
+Subject:,Business of the Direct-Hold Solution Mexico /  Negocios de la Direct-Hold Solution México
+
+MEMORANDUM
+Jurisdictional Fracture /  Fractura Jurisdiccional
+There seems to be a fair amount Jurisdictional Fracture in the terminology we cover.
+The term Public, Non-Listed is a valid and common status in Canada and the US (e.g., Reporting Issuer or Public Non-Traded REIT).
+However, in Spain (SOCIMI) and Mexico (FIBRA), the tax-exempt status is legally tied to being Listed (Cotizada).
+The Trap: If you tell a Spanish investor you are a Public Non-Listed SOCIMI, they will say that is impossible.
+To get the 0% tax rate, a SOCIMI must be listed on an exchange (BME Growth or Main Market).
+The Ambiguity:
+In English (CA/US): Listed means Trading on the NYSE/TSX. You can be Public without being Listed.
+In Spanish (ES/MX): Cotizada (Listed) is the definition of being Public.
+There is no widely used category for Public but not Listed equity.
+The Bridge Term: Public Non-Traded
+To speak English that translates cleanly into Spanish without triggering legal confusion, you must stop using Public, Non-Listed as a global term.
+Instead, focus on the Regulatory Status (the safety) and the Liquidity Mechanism (the transferability).
+Trap A: Reporting Issuer
+The Problem: Reporting Issuer is a specific term under the Canadian Securities Act. It has no direct translation.
+Spanish Risk: Translating it as Emisor de Informes sounds like a newsletter publisher.
+Mexico Risk: They use Emisora (Issuer) but imply Emisora Bursátil (Stock Market Issuer).
+The Bridge Term: Regulated Issuer or Regulated Reporting Entity.
+Why: Regulated (Regulada) implies you file papers with the government (CNMV/CNBV/SEC/BCSC). It is true in all four countries.
+Trap B: Listed vs. Traded
+The Problem:
+Canada/US: You can be Listed (on the board) but not Traded (no volume). Or Public but Unlisted.
+Spain/Mexico: Cotizada implies both. If you are on the exchange, you are Cotizada.
+The Bridge Term: Exchange-Qualified.
+Why: It says you meet the standards of the exchange (for your debt or equity) without forcing the Non-Listed label that breaks the Spanish logic.
+Trap C: Registered
+The Problem:
+English: Registered means you filed with the SEC/Commission.
+Spanish: Registrada can mean just Incorporated (in the Mercantile Registry). The higher standard is Inscrita (Inscribed in the National Securities Registry).
+The Bridge Term: Securities-Registered.
+
+Woodfine Professional Centres 4 Fideicomiso de Infraestructura en Bienes Raíces (Professional Centres Mexico FIBRA)
+Intercorporate Relationships /  Relaciones Intercorporativas
+The following illustrates the relationship among the General Partner or Administrator, the Direct-Hold Solutions, the Promoter, Benetti, and the Advisor.
+
+Business of the Trust /  Negocio del Fideicomiso
+Issuer: [Bank Name] as Trustee of Trust [Number] Certificados Bursátiles Fiduciarios Inmobiliarios (CBFIs)
+Legal Structure: Fideicomiso de Inversión en Bienes Raíces FIBRA (Real Estate Investment Trust).
+Governing Laws: Ley del Impuesto sobre la Renta (LISR, Art. 187 & 188), Ley del Mercado de Valores (LMV), and Resolución Miscelánea Fiscal (Rule 3.21.3.2 for Private FIBRAs).
+This structure allows for 100% real estate development (build-to-lease) while maintaining tax transparency (flow-through), offering freely transferable equity (via Indeval), and issuing publicly traded debt.
+
+Tax Transparency (Flow-Through Status) /  Transparencia Fiscal (Estado de Transparencia Fiscal)
+Under Article 188 of the LISR, the FIBRA is fiscally transparent.
+0% Corporate Tax: The Trust pays no income tax on rental income or capital gains.
+The Development Rule: To maintain 0% tax, properties built by the FIBRA must be held for leasing for at least 4 years after completion.
+Compliance Rule: At least 70% of the Trust's assets must be invested in real estate destined for lease.
+
+Freely Transferable Equity (CBFIs) /  Capital De Libre Transferencia ( CBFIs )
+To create liquidity for investors while maintaining Private control, the Trust registers as a Private FIBRA.
+The Instrument: It issues CBFIs (Certificados Bursátiles Fiduciarios Inmobiliarios).
+The Registry: Certificates are registered in the National Securities Registry (RNV) and deposited in Indeval.
+Restricted Regime: To avoid market volatility, CBFIs are not listed on an open board but are transferable via Broker-to-Broker settlement.
+
+Secondary Market: Who Qualifies & Transfer Protocol / Mercado Secundario: Quién Califica y Protocolo de Transferencia
+Resident & Qualified Restrictions / Restricciones para Residentes y Calificados
+Residents Only: Restricted to Tax Residents of Mexico. This eliminates the need for international tax treaty navigation and simplifies FATCA/CRS compliance.
+Qualified Investors: Restricted to Institutional or Qualified Investors (Hedge funds, Pension funds, or High-Net-Worth individuals meeting CNBV wealth thresholds).
+
+Self-Executing Transfer Protocol  / Protocolo De Transferencia De Ejecución Automática
+The Certificate: Transfers are initiated by a Transfer of Ownership Certificate signed by both Buyer and Seller.
+Affidavit Model: By signing, parties attest the Buyer meets the Residency and Qualified Investor criteria.
+No Consent Required: No formal vote or discretionary approval from the Technical Committee or Trustee is required.
+The signed Transfer of Ownership Certificate acts as the Instruction for settlement.
+Mandated Processing: The Trustee Bank is mandated to process the Indeval settlement immediately upon receipt of the completed form.
