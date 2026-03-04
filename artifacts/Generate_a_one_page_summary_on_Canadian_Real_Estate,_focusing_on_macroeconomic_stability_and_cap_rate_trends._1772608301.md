@@ -1,0 +1,11 @@
+**Canadian Real Estate: Macroeconomic Stability and Cap Rate Trends**
+
+The Canadian real estate market is identified as a target for investment, focusing on Institutional-Grade regional real estate. This includes properties such as Professional Centres, Retail Select Buildings, Tech Industrial Buildings, and Suburban Offices, often situated near Power Centres. A multi-year absorption of surplus inventory is anticipated to lead to healthier market conditions in regional nodes from the second half of 2026 into 2027.
+
+Canada maintains G7-leading growth metrics and accessible debt markets. Global indices place Canada as a target for property investors considering Europe and North America, with a Newmark index rating of 430, indicating a data-supported arbitrage advantage. This macroeconomic environment is supported by a stable lending outlook, with consensus forecasts suggesting the Bank of Canada's policy rate will remain at 2.25% in 2026. This stability aligns with capital mandates that emphasize capital preservation and high cash yields over high leverage.
+
+Cap rate trends show sector-specific dynamics. Office cap rates are higher than pre-pandemic levels and have leveled off. The office market exhibits a separation into 'investable' and 'repurpose candidate' stock, with capital flows concentrated on 'investable' properties that meet modern standards. This includes Grade A assets incorporating smart-building systems, wellness amenities, and environmental credentials.
+
+In the retail sector, downward pressure on yields is forecasted for in-demand assets such as grocery-anchored retail in major markets. This trend is attributed to a lack of supply, favorable lending conditions, and investor demand for defensive assets. Investor demand for retail centers anchored by grocery, consumer staple, or health/personal care businesses is present due to the cash flow stability these assets offer during economic volatility. Institutional capital favors necessity-based and grocery-anchored retail, driven by consistent foot traffic. A capitalization rate of 6.25% is utilized in financial modeling for certain institutional-grade assets.
+
+These market conditions indicate specific opportunities within Canada's regional markets, particularly for properties that provide modern specifications and benefit from proximity to resilient retail anchors.

@@ -1,0 +1,51 @@
+# SIS_V7_Articles_Corporate.txt
+
+**Entry 001**
+**Author:** CEPT University
+**Quote:** "In the more recent digitally connected era, our society is captivated with speed... History has established that a few basic principles in life have never changed, and perhaps would not change."
+**Tags:** `[Theme_A GROWTH STRATEGY]`, `[Glossary: Development Classes]`
+
+**Entry 004**
+**Author:** Kang, J.
+**Quote:** "Walmart Inc. said Wednesday it plans to build or remodel about 800 stores in the coming years as the world’s largest retailer seeks to reach more customers and fuel growth."
+**Tags:** `[Theme_A GROWTH STRATEGY]`, `[Glossary: Strategic Partnerships]`
+
+**Entry 005**
+**Author:** Parsley, D.
+**Quote:** "Just 8.3% of UK office space will satisfy new environmental standards set to be enforced from 2030, according to a report from Carter Jonas."
+**Tags:** `[Theme_B ESG — DIRECT-HOLD SILOS]`, `[Glossary: Dual-Mandate Building Certifications]`
+
+**Entry 010 & 011**
+**Author:** Dillon Eustace LLP
+**Quote:** "AN UMBRELLA ELTIF TYPE IRISH COLLECTIVE ASSET-MANAGEMENT VEHICLE WITH SEGREGATED LIABILITY BETWEEN FUNDS"
+**Tags:** `[Theme_G CAPITAL FRAMEWORK (The Diversification Gateway)]`, `[Glossary: Direct-Hold Solutions]` / `[Glossary: Jurisdictional Diversification]`
+
+**Entry 012**
+**Author:** Gallagher, M., et al.
+**Quote:** "The Green Street Global Property Allocator assesses the relative attractiveness of property types in Europe and North America across both private and public markets."
+**Tags:** `[Theme_G CAPITAL FRAMEWORK (The Diversification Gateway)]`, `[Glossary: Jurisdictional Diversification]`
+
+**Entry 013**
+**Author:** Kelley, L.
+**Quote:** "As AI-generated writing spreads across the platform, users are scrutinizing em dashes, emojis and repetitive phrasing to call out inauthenticity."
+**Tags:** `[Theme_F SELF-SIMILAR GOVERNANCE (Investor Protections)]`, `[Glossary: Public Oversight]`
+
+**Entry 014**
+**Author:** Gopinath, S.
+**Quote:** "The fund will invest in “boring,” stable, long-term infrastructure assets in Europe and North America, according to Hansen. It will emphasize capital preservation and high cash yields over high leverage, he said."
+**Tags:** `[Theme_E INCOME SOLUTION (The Compounding Engine)]`, `[Glossary: Organic Deleveraging]`
+
+**Entry 015**
+**Author:** Levine, M.
+**Quote:** "If you have dollars, you can put them in a checking account at a bank. This is convenient... and fairly safe... but not especially lucrative."
+**Tags:** `[Theme_F SELF-SIMILAR GOVERNANCE (Investor Protections)]`, `[Glossary: Financial Model]`
+
+**Entry 016**
+**Author:** Jacob, S., & Gledhill, A.
+**Quote:** "The Netherlands is overhauling its pensions to adapt to an aging population and a labor market where people no longer remain with the same employer for their entire working lives."
+**Tags:** `[Theme_G CAPITAL FRAMEWORK (The Diversification Gateway)]`, `[Glossary: Qualified Private Capital]`
+
+**Entry 019**
+**Author:** InvestyWise
+**Quote:** "An asset management firm provides investment services to individuals & institutions."
+**Tags:** `[Theme_E INCOME SOLUTION (The Compounding Engine)]`, `[Glossary: Qualified Private Capital]`
