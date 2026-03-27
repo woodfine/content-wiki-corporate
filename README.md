@@ -9,7 +9,7 @@
 [![Language](https://img.shields.io/badge/Language-ISO_24495--1-164679?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Active_Enforcement-54924E?style=flat-square)](#)
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **System Vendor** ](https://github.com/pointsav)
 
 </div>
 
@@ -26,21 +26,6 @@ This repository houses the immutable corporate directives for Woodfine Managemen
 
 ## ⚖️ The Linguistic Compilation Matrix
 Woodfine utilizes the PointSav Cognitive Forge to generate compliant corporate assets. Operations dictate intent; the system compiles the output based on these strict structural routing instructions.
-
-```mermaid
-graph LR;
-    A[Human Intent] --> B{Protocol Engine};
-    B -->|Internal Strategy| C[MEMO Protocol];
-    B -->|External Disclosures| D[COMM Protocol];
-    B -->|Corporate Agreements| E[LEGAL Protocol];
-    
-    C --> F[Synthesized Corporate Asset];
-    D --> F;
-    E --> F;
-    
-    style B fill:#111827,stroke:#164679,stroke-width:2px,color:#fff
-    style F fill:#164679,stroke:#111827,stroke-width:2px,color:#fff
-```
 
 ### 📜 Active Protocol Manifests
 | Protocol | Lexicon Target | Execution Constraints |
