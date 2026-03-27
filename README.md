@@ -1,29 +1,49 @@
 <div align="center">
 
-# Corporate Wiki
+<img src="https://raw.githubusercontent.com/woodfine/woodfine-media-assets/main/ASSET-SIGNET-MASTER.svg" width="80" alt="Woodfine Signet">
+
+# Corporate Wiki | Wiki Corporativa
 ### *Institutional Governance, Policies & Financial Controls*
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **Main Profile** ](https://github.com/woodfine)
+[![Governance](https://img.shields.io/badge/Governance-SOC_3-164679?style=flat-square)](#)
+[![Language](https://img.shields.io/badge/Language-ISO_24495--1-164679?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/Status-Active_Enforcement-54924E?style=flat-square)](#)
 
-*System Vendor:* [ **PointSav Digital Systems** ](https://github.com/pointsav/pointsav-monorepo)
-
-[ 🇪🇸 Leer este documento en Español ](./README.es.md)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **System Vendor** ](https://github.com/pointsav)
 
 </div>
 
 ---
 
-> [!NOTE]
-> **OPERATIONAL POSTURE [MARCH 2026]**
-> **Phase:** Production Iteration 1 | **Focus:** Institutional Glossary & Translation Parity | **State:** Strict BCSC Compliance Enforcement.
+<details>
+<summary><b>🛡️ VIEW OPERATIONAL POSTURE & EXECUTIVE MANDATE</b></summary>
+<br>
+<b>Phase:</b> Production Iteration 1 | <b>Focus:</b> Institutional Glossary & Translation Parity | <b>Estado:</b> Aplicación estricta de cumplimiento normativo (BCSC).
+<br><br>
+This repository houses the immutable corporate directives for Woodfine Management Corp. and its Direct-Hold Solutions. All operational logic, legal definitions, and human resource protocols are version-controlled here, ensuring total transparency and auditability.
+<br><br>
+</details>
 
-## ⚖️ Governance Architecture
-This repository houses the immutable corporate directives for Woodfine Management Corp. and its Direct-Hold Solutions. All operational logic, legal definitions, and human resource protocols are mathematically version-controlled here, ensuring total transparency and auditability.
+## ⚖️ The Linguistic Compilation Matrix
+Woodfine utilizes the PointSav Cognitive Forge to generate compliant corporate assets. Operations dictate intent; the system compiles the output based on these strict structural routing instructions.
+
+```mermaid
+graph LR;
+    A[Human Intent] --> B{Protocol Engine};
+    B -->|Internal Strategy| C[MEMO Protocol];
+    B -->|External Disclosures| D[COMM Protocol];
+    B -->|Corporate Agreements| E[LEGAL Protocol];
+    
+    C --> F[Synthesized Corporate Asset];
+    D --> F;
+    E --> F;
+    
+    style B fill:#111827,stroke:#164679,stroke-width:2px,color:#fff
+    style F fill:#164679,stroke:#111827,stroke-width:2px,color:#fff
+```
 
 ### 📜 Active Protocol Manifests
-The strict linguistic routing instructions utilized by the PointSav Cognitive Forge to generate compliant corporate assets.
-
-| Protocol Manifest | Lexicon Target | Execution Constraints |
+| Protocol | Lexicon Target | Execution Constraints |
 | :--- | :--- | :--- |
 | **`protocol-memo`** | Internal Strategy | Minto Pyramid structure, declarative facts. |
 | **`protocol-comm`** | External Disclosures | BCSC compliance, anti-puffery validation. |
