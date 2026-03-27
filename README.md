@@ -9,7 +9,7 @@
 [![Language](https://img.shields.io/badge/Language-ISO_24495--1-164679?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Active_Enforcement-54924E?style=flat-square)](#)
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **System Vendor** ](https://github.com/pointsav)
 
 </div>
 
@@ -30,11 +30,11 @@ Woodfine utilizes the PointSav Cognitive Forge to generate compliant corporate a
 ### 📜 Active Protocol Manifests
 | Protocol | Lexicon Target | Execution Constraints |
 | :--- | :--- | :--- |
-| **`protocol-memo`** | Internal Strategy | Minto Pyramid structure, declarative facts. |
-| **`protocol-comm`** | External Disclosures | BCSC compliance, anti-puffery validation. |
-| **`protocol-legal`** | Corporate Agreements | Strict liability definitions, Flow-Through Taxation logic. |
-| **`protocol-translate`** | Cross-Language Parity | 1-to-1 English/Spanish structural mirroring. |
-| **`protocol-text`** | Machine/Repo Text | Bloomberg Terminal aesthetic, Plain Language standard (ISO 24495-1). |
+| `protocol-memo` | Internal Strategy | Minto Pyramid structure, declarative facts. |
+| `protocol-comm` | External Disclosures | BCSC compliance, anti-puffery validation. |
+| `protocol-legal` | Corporate Agreements | Strict liability definitions, Flow-Through Taxation logic. |
+| `protocol-translate` | Cross-Language Parity | 1-to-1 English/Spanish structural mirroring. |
+| `protocol-text` | Machine/Repo Text | Bloomberg Terminal aesthetic, Plain Language standard (ISO 24495-1). |
 
 ---
 *© 2026 Woodfine Management Corp.*
