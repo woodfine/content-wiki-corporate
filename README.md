@@ -1,40 +1,26 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/woodfine/woodfine-media-assets/main/ASSET-SIGNET-MASTER.svg" width="80" alt="Woodfine Signet">
+# Woodfine Management Corp.
+### *Corporate Wiki: Public Information Index*
 
-# Corporate Wiki | Wiki Corporativa
-### *Institutional Governance, Policies & Financial Controls*
+[![Entity](https://img.shields.io/badge/Entity-Enterprise_Customer-164679?style=flat-square)](#)
+[![Asset](https://img.shields.io/badge/Asset-Institutional_Real_Estate-164679?style=flat-square)](#)
 
-[![Governance](https://img.shields.io/badge/Governance-SOC_3-164679?style=flat-square)](#)
-[![Language](https://img.shields.io/badge/Language-ISO_24495--1-164679?style=flat-square)](#)
-[![Status](https://img.shields.io/badge/Status-Active_Enforcement-54924E?style=flat-square)](#)
-
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Organization Profile** ](https://github.com/woodfine) | [ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **Media Assets** ](https://github.com/woodfine/woodfine-media-assets) | [ **PointSav Monorepo** ](https://github.com/pointsav/pointsav-monorepo)
 
 </div>
 
 ---
 
+## 1. PUBLIC CORPORATE INFORMATION
+
+**[ EN ]** This repository serves as the Public Corporate Information Index. It contains hyperlinked files related to corporate administration, business governance, and statutory public disclosures as they become available.
 <details>
-<summary><b>🛡️ VIEW OPERATIONAL POSTURE & EXECUTIVE MANDATE</b></summary>
-<br>
-<b>Phase:</b> Production Iteration 1 | <b>Focus:</b> Institutional Glossary & Translation Parity | <b>Estado:</b> Aplicación estricta de cumplimiento normativo (BCSC).
-<br><br>
-This repository houses the immutable corporate directives for Woodfine Management Corp. and its Direct-Hold Solutions. All operational logic, legal definitions, and human resource protocols are version-controlled here, ensuring total transparency and auditability.
-<br><br>
+<summary><b>[ ES ] Traducción al Español</b></summary>
+Este repositorio sirve como el Índice de Información Corporativa Pública. Contiene archivos vinculados relacionados con la administración corporativa, la gobernanza empresarial y las divulgaciones públicas estatutarias a medida que están disponibles.
 </details>
 
-## ⚖️ The Linguistic Compilation Matrix
-Woodfine utilizes the PointSav Cognitive Forge to generate compliant corporate assets. Operations dictate intent; the system compiles the output based on these strict structural routing instructions.
-
-### 📜 Active Protocol Manifests
-| Protocol | Lexicon Target | Execution Constraints |
-| :--- | :--- | :--- |
-| `protocol-memo` | Internal Strategy | Minto Pyramid structure, declarative facts. |
-| `protocol-comm` | External Disclosures | BCSC compliance, anti-puffery validation. |
-| `protocol-legal` | Corporate Agreements | Strict liability definitions, Flow-Through Taxation logic. |
-| `protocol-translate` | Cross-Language Parity | 1-to-1 English/Spanish structural mirroring. |
-| `protocol-text` | Machine/Repo Text | Bloomberg Terminal aesthetic, Plain Language standard (ISO 24495-1). |
-
----
-*© 2026 Woodfine Management Corp.*
+<br>
+<div align="center">
+<sub><em>Woodfine Capital Projects, Woodfine Management Corp., PointSav Digital Systems, Totebox Orchestration, and Totebox Archive are trademarks owned by Woodfine Capital Projects Inc. This notice serves as a formal declaration of intellectual property rights, asserting continuous use in commerce regardless of the omission of the ™ or ® symbols in the accompanying text. All operational and architectural system designations (including but not limited to PointSav Console OS, PointSav Infrastructure OS, PointSav MediaKit OS, PointSav Network OS, PointSav PrivateGit OS, PointSav Workplace OS, Totebox Integration OS, and Totebox OS) are proprietary structural wordmarks utilized exclusively within the PointSav Digital Systems architecture.</em></sub>
+</div>
