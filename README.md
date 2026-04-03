@@ -15,9 +15,9 @@
 
 ## 1. DIGITAL PROPERTIES & CORPORATE RECORDS
 
-**[ EN ]** This repository operates as the Corporate Governance Wiki. It is a Digital Property powered by PointSav MediaKit OS, engineered to securely process internal administrative ledgers and render them into compliant public disclosures without exposing the underlying WORM databases to the internet.
+**[ EN ]** This repository operates as the Corporate Governance Wiki. It is a Digital Property powered by PointSav MediaKit OS, designed to securely process internal administrative ledgers and render them into compliant public disclosures.
 
-> **[ ES ]** *Este repositorio opera como la Wiki de Gobernanza Corporativa. Es una Propiedad Digital impulsada por PointSav MediaKit OS, diseñada para procesar de manera segura los libros administrativos internos y renderizarlos en divulgaciones públicas conformes a las normativas sin exponer las bases de datos WORM subyacentes a Internet.*
+> **[ ES ]** *Este repositorio opera como la Wiki de Gobernanza Corporativa. Es una Propiedad Digital impulsada por PointSav MediaKit OS, diseñada para procesar de manera segura los libros administrativos internos y renderizarlos en divulgaciones públicas conformes a las normativas.*
 
 ---
 
