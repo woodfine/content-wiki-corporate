@@ -1,49 +1,70 @@
 <div align="center">
 
-# 🏛️ CORPORATE GOVERNANCE WIKI
-### FINANCIAL ARCHITECTURE & FIDUCIARY STRUCTURE
-*The operational ledger for the Direct-Hold financial framework.*
+# Woodfine — Corporate Governance Wiki
+### *The Financial Architecture and Fiduciary Framework*
+
+[![Status: Active](https://img.shields.io/badge/Status-Active-22863a.svg?style=flat-square)](#)
+[![Audience: Institutional](https://img.shields.io/badge/Audience-Institutional-0075ca.svg?style=flat-square)](#)
 
 <br/>
 
-**[ ➔ Real Estate Projects Wiki ](https://github.com/woodfine/content-wiki-projects)**<br/>
-**[ ➔ Customer Fleet Deployment ](https://github.com/woodfine/woodfine-fleet-deployment)**<br/>
-**[ ➔ System Engineering Monorepo ](https://github.com/pointsav/pointsav-monorepo)**
+**[→ woodfinegroup.com](https://woodfinegroup.com)** &nbsp;·&nbsp; **[→ Fleet Deployment](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp;·&nbsp; **[→ PointSav Engineering](https://github.com/pointsav/pointsav-monorepo)**
 
 </div>
 
-<br/>
+---
 
-> [!WARNING]
-> **SOVEREIGN FRAMEWORK DECLARATION**
-> This repository acts as a public architectural blueprint. It contains zero unredacted financial accounts or active personnel data.
+## About This Repository
+
+This is the public governance and financial architecture library for Woodfine Management Corp. It documents the structural logic of the Direct-Hold investment framework — the financial model that Woodfine uses to develop, manage, and hold environmentally certified commercial real estate across North America and Europe.
+
+The intended reader is an investment banker, asset manager, or auditor who wants to understand the investment vehicle structure, governance controls, and financial architecture before a first conversation. This repository is the pre-read, not the pitch.
+
+This repository contains no live financial accounts, active personnel records, or unredacted corporate data.
 
 ---
 
-## I. THE FIDUCIARY MANDATE
+## The Direct-Hold Framework
 
-This repository is the definitive financial and legal blueprint for **Woodfine Management Corp.** It serves as the institutional ledger for auditors, asset managers, and investment bankers. 
+Woodfine does not operate investment funds. It operates Direct-Hold Solutions — regulated reporting entities that own the underlying real estate assets directly, structured to eliminate the structural bloat and redundant fees of layered fund vehicles. Investors hold units directly in the enterprise that owns the buildings.
 
-We execute a **Direct-Hold Solution** that bypasses the structural bloat and redundant fees of legacy investment funds. By pairing Perpetual Equity with absolute data sovereignty, we secure multi-generational capital against both market volatility and third-party cloud vulnerabilities. 
+`topic-DIRECT-HOLD-FRAMEWORK.md` — The complete structural argument for Direct-Hold Solutions versus traditional REITs and fund vehicles. Why the elimination of the fund layer is not a simplification but a structural improvement. The four jurisdictional implementations: Canada LP, United States LP, Spain SOCIMI, Mexico FIBRA.
 
----
+`topic-EQUITY-TRANSFER-MODEL.md` — How Investment Units transfer directly between investors without redemption queues. Why Freely Transferable status — the ability to transfer without requiring the enterprise to sell assets — distinguishes Direct-Hold Solutions from both public REITs and private funds.
 
-## II. THE DIRECT-HOLD LEDGER
+`topic-REDEMPTION-ELIMINATION.md` — Perpetual Equity: why the elimination of redemption mechanisms is a deliberate structural choice that aligns investor and enterprise interests over the long term. Multi-generational capital design.
 
-Below is the active index of our financial structures and governance controls. Select a topic to view its complete operational breakdown.
+`topic-INTEREST-COVERAGE-RATIO.md` — The strict 1.2x minimum interest coverage ratio, Organic Deleveraging design, and the Cyclical Funding Model (stabilise → issue debt → build next asset).
 
-### ⚖️ Track 1: Financial & Legal Topologies
-| Topic Document | Structural Mandate | Status |
-| :--- | :--- | :--- |
-| `topic-DIRECT-HOLD-FRAMEWORK.md` | The Direct-Hold Solution & Fund Elimination | 🟢 Verified |
-| `topic-EQUITY-TRANSFER-MODEL.md` | Freely Transferable Investment Units | 🟢 Verified |
-| `topic-REDEMPTION-ELIMINATION.md` | Perpetual Equity & Multi-Generational Capital | 🟢 Verified |
-| `topic-INTEREST-COVERAGE-RATIO.md` | Strict 1.2 Minimum & Organic Deleveraging | 🟢 Verified |
-| `topic-FIDUCIARY-DATA-MANDATE.md` | Absolute Custodial Control via Sovereign Nodes | 🟢 Verified |
+`topic-FIDUCIARY-DATA-MANDATE.md` — Why custodial control of corporate records is a fiduciary obligation, not a technology choice. The link between the PointSav platform and the financial governance framework: verified, portable, audit-ready records as a requirement of the investment structure.
 
 ---
 
-## III. USAGE & LEGAL PARAMETERS
-The frameworks and structural designs documented in this Wiki are intended for educational review and institutional auditing. 
+## Governance Structure
 
-This repository operates strictly under an **Incubation Phase**. Refer to the `LICENSE` file at the root of this directory. All rights to the underlying intellectual property, source code, and deployment patterns are strictly reserved.
+Woodfine Capital Projects Inc. is the parent company. Woodfine Management Corp. is the Principal Manager executing the Direct-Hold Solutions. The Tripartite Management Structure — developer managing construction, compliance management, and a banking syndicate of asset managers — ensures arm's-length distance between the enterprise's development function and its investor relations function.
+
+Each Direct-Hold Solution has its own Independent Oversight Committee. There is no global committee. This is intentional: each jurisdiction's fiduciary obligations are distinct, and a single global body creates the same structural conflation that fund structures create.
+
+The four active jurisdictional vehicles:
+
+| Entity | Jurisdiction | Designation |
+|:---|:---|:---|
+| Woodfine Professional Centres Limited Partnership | Canada | Reporting Issuer under BCSC |
+| Woodfine Professional Centres 2 Limited Partnership | United States | Regulated Reporting Entity |
+| Woodfine Professional Centres 3 SOCIMI | Spain | Sociedad Cotizada — listed entity |
+| Woodfine Professional Centres 4 FIBRA | Mexico | Fideicomiso — flow-through trust |
+
+---
+
+## Contact
+
+For institutional inquiries: **[woodfinegroup.com](https://woodfinegroup.com)**
+
+*This repository is intended for educational review and institutional auditing. All rights to the underlying intellectual property and corporate frameworks are reserved by Woodfine Capital Projects Inc. Refer to the `LICENSE` file for full terms.*
+
+---
+
+*© 2026 Woodfine Management Corp. All rights reserved.*
+
+*→ Versión en español: [README.es.md](./README.es.md)*

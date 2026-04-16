@@ -1,35 +1,55 @@
 <div align="center">
 
-# Corporate Wiki
-### *Gobernanza Institucional, Políticas y Controles Financieros*
+# Woodfine — Wiki de Gobernanza Corporativa
+### *Arquitectura Financiera y Marco Fiduciario*
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **Main Profile** ](https://github.com/woodfine)
+<br/>
 
-*Proveedor del Sistema:* [ **PointSav Digital Systems** ](https://github.com/pointsav/pointsav-monorepo)
-
-[ 🇬🇧 Read this document in English ](./README.md)
+**[→ woodfinegroup.com](https://woodfinegroup.com)** &nbsp;·&nbsp; **[→ Despliegue de Flota](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp;·&nbsp; **[→ Ingeniería PointSav](https://github.com/pointsav/pointsav-monorepo)**
 
 </div>
 
 ---
 
-> [!NOTE]
-> **POSTURA OPERATIVA [MARZO 2026]**
-> **Fase:** Iteración de Producción 1 | **Enfoque:** Glosario Institucional y Paridad de Traducción | **Estado:** Aplicación estricta de cumplimiento normativo (BCSC).
+## Sobre Este Repositorio
 
-## ⚖️ Arquitectura de Gobernanza
-Este repositorio alberga las directivas corporativas inmutables para Woodfine Management Corp. y sus Direct-Hold Solutions. Toda la lógica operativa, las definiciones legales y los protocolos de recursos humanos están controlados matemáticamente por versiones aquí, asegurando una total transparencia y auditabilidad.
+Esta es la biblioteca pública de gobernanza y arquitectura financiera de Woodfine Management Corp. Documenta la lógica estructural del marco de inversión de Tenencia Directa — el modelo financiero que Woodfine utiliza para desarrollar, gestionar y mantener bienes raíces comerciales con certificación ambiental en América del Norte y Europa.
 
-### 📜 Manifiestos de Protocolo Activos
-Las estrictas instrucciones de enrutamiento lingüístico utilizadas por el PointSav Cognitive Forge para generar activos corporativos que cumplan con las normativas.
+El lector objetivo es un banquero de inversión, gestor de activos o auditor que desea comprender la estructura del vehículo de inversión, los controles de gobernanza y la arquitectura financiera antes de una primera conversación.
 
-| Manifiesto de Protocolo | Objetivo de Léxico | Restricciones de Ejecución |
-| :--- | :--- | :--- |
-| **`protocol-memo`** | Estrategia Interna | Estructura de Pirámide de Minto, hechos declarativos. |
-| **`protocol-comm`** | Divulgaciones Externas | Cumplimiento de BCSC, validación anti-exageración (anti-puffery). |
-| **`protocol-legal`** | Acuerdos Corporativos | Definiciones estrictas de responsabilidad, lógica de Tributación de Flujo Continuo. |
-| **`protocol-translate`** | Paridad Interlingüística | Reflejo estructural 1 a 1 Inglés/Español. |
-| **`protocol-text`** | Texto de Máquina/Repo | Estética de Terminal de Bloomberg, estándar de Lenguaje Claro (ISO 24495-1). |
+Este repositorio no contiene cuentas financieras activas, registros de personal ni datos corporativos no redactados.
 
 ---
-*© 2026 Woodfine Management Corp.*
+
+## El Marco de Tenencia Directa
+
+Woodfine no opera fondos de inversión. Opera Soluciones de Tenencia Directa — entidades de reporte regulado que poseen los activos inmobiliarios directamente, estructuradas para eliminar los costos estructurales redundantes de los vehículos de fondos en capas. Los inversores mantienen unidades directamente en la empresa que posee los inmuebles.
+
+`topic-DIRECT-HOLD-FRAMEWORK.md` — El argumento estructural completo para las Soluciones de Tenencia Directa frente a los REIT tradicionales y los vehículos de fondos. Las cuatro implementaciones jurisdiccionales: LP de Canadá, LP de Estados Unidos, SOCIMI de España, FIBRA de México.
+
+`topic-EQUITY-TRANSFER-MODEL.md` — Cómo las Unidades de Inversión se transfieren directamente entre inversores sin colas de redención. Por qué el estado de Libre Transferencia distingue las Soluciones de Tenencia Directa tanto de los REIT públicos como de los fondos privados.
+
+`topic-REDEMPTION-ELIMINATION.md` — Capital Perpetuo: por qué la eliminación de los mecanismos de redención es una elección estructural deliberada que alinea los intereses de los inversores y la empresa a largo plazo.
+
+`topic-INTEREST-COVERAGE-RATIO.md` — El ratio mínimo estricto de cobertura de intereses de 1.2x, el diseño de Desapalancamiento Orgánico y el Modelo de Financiamiento Cíclico (estabilizar → emitir deuda → construir el siguiente activo).
+
+`topic-FIDUCIARY-DATA-MANDATE.md` — Por qué el control custodial de los registros corporativos es una obligación fiduciaria, no una elección tecnológica.
+
+---
+
+## Estructura de Gobernanza
+
+Los cuatro vehículos jurisdiccionales activos:
+
+| Entidad | Jurisdicción | Designación |
+|:---|:---|:---|
+| Woodfine Professional Centres Limited Partnership | Canadá | Emisor Regulado bajo BCSC |
+| Woodfine Professional Centres 2 Limited Partnership | Estados Unidos | Entidad de Reporte Regulada |
+| Woodfine Professional Centres 3 SOCIMI | España | Sociedad Cotizada |
+| Woodfine Professional Centres 4 FIBRA | México | Fideicomiso de flujo directo |
+
+---
+
+*© 2026 Woodfine Management Corp. Todos los derechos reservados.*
+
+*→ English version: [README.md](./README.md)*
