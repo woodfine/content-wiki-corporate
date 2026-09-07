@@ -28,17 +28,22 @@ rights.
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Where to start
+
+Thirteen articles sit in this category, across board oversight, investor rights, and
+required disclosures. These four carry the decisions and protections that bear most
+directly on a limited partner's position.
+
+- [[governance-documents|Corporate governance documents]] — The governance instruments disclosed for Professional Centres Canada LP. Only the audit committee charter is in place; the board mandate, remaining charters, and code of business conduct are planned but not yet adopted.
+- [[special-resolutions-and-general-partner-removal|Special resolutions and general partner removal]] — Limited partners can remove the general partner outright, through one mechanism: a 75% Special Resolution vote.
+- [[statutory-rights|Statutory rights]] — The baseline protections against misrepresentation in offering documents, which apply regardless of what a partnership agreement says. A plain-language explainer, not a legal opinion.
+- [[fees-to-affiliates-and-conflicts-of-interest|Fees to affiliates and conflicts of interest]] — Section 9.5 of the partnership agreement bars any fee calculated by reference to net asset value, and blocks promoter affiliates other than the advisor from receiving fees at all.
+
 ## Board and management oversight
 
-[[governance-documents|Corporate Governance Documents]] is the entry point: the audit
-committee charter that is in place, and the board mandate, remaining committee charters,
-and code of business conduct that are planned but not yet adopted.
-[[audit-committee-mandate|The Audit Committee Mandate]] sets out that committee's
-composition and responsibilities in more detail, while
-[[tripartite-management-structure|the Tripartite Management Structure]] describes the
-functional separation between development, compliance, and capital management that the
-board oversees. [[auditors-transfer-agent-registrar|Auditors, Transfer Agent, and
-Registrar]] covers the three external roles the structure depends on.
+Four articles cover the instruments and roles through which the board supervises
+management. Only the audit committee charter is in place today; the remaining governance
+instruments are planned but not yet adopted.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: board-and-management-oversight -->
 - [[governance-documents]] — Professional Centres Canada LP's audit committee charter, currently in place, alongside the board mandate, remaining committee charters, governance policy, and code of business conduct planned but not yet adopted.
@@ -49,19 +54,9 @@ Registrar]] covers the three external roles the structure depends on.
 
 ## Investor Rights and Voting
 
-[[investor-relations-policy|The Investor Relations Policy]] is the entry point: how the
-group communicates with limited partners day to day. [[statutory-rights|Statutory
-Rights]] sets out the baseline protections — rescission, damages, and the rights that
-attach to different distribution channels — that apply regardless of what a
-partnership agreement says.
-[[special-resolutions-and-general-partner-removal|Special Resolutions and General
-Partner Removal]] and [[meetings-of-limited-partners|Meetings of Limited Partners]]
-describe the mechanics investors actually use to exercise those rights — the vote
-threshold and matters a Special Resolution governs, and how a meeting is called,
-noticed, and voted. [[limited-partner-eligibility-representations|Limited Partner
-Eligibility Representations]] closes the loop: the ongoing representations each
-investor makes to remain eligible, and the forced-sale procedure if their
-circumstances change.
+Five articles cover what a limited partner can actually do — the baseline statutory
+protections, the vote thresholds, and the meeting mechanics. A limited partnership has no
+board; the Special Resolution vote is the structural substitute for board oversight.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-rights-and-voting -->
 - [[investor-relations-policy]] — The structure and purpose of a formal investor relations policy: preventing selective disclosure, designating authorised spokespersons, establishing quiet periods, and managing guidance within the continuous disclosure framework of NI 51-102 and CSA National Policy 51-201.
@@ -73,13 +68,9 @@ circumstances change.
 
 ## Conflicts and Required Disclosures
 
-[[fees-to-affiliates-and-conflicts-of-interest|Fees to Affiliates and Conflicts of
-Interest]] is the entry point: the net-asset-value fee prohibition and the rule
-limiting fees paid to promoter affiliates. [[material-contracts|Material Contracts]],
-[[legal-proceedings|Legal Proceedings]], and [[experts|Experts]] complete the
-disclosure record a prospective investor would review alongside it — the contracts the
-group has entered into, any legal proceedings on file, and the named experts whose work
-the disclosure record relies on.
+Four articles cover the conflicts regime and the disclosure record a prospective investor
+would review alongside it: the contracts entered into, any legal proceedings on file, and
+the named experts the record relies on.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — The net-asset-value fee prohibition and the rule limiting fees to promoter affiliates.
