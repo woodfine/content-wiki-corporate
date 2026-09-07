@@ -45,7 +45,7 @@ Woodfine Professional Centres 3 S.A. tiene previsto ser el Administrador del SOC
 
 ## Lo que esto no es
 
-Professional Centres Spain SOCIMI aún no es una entidad legal constituida. No se ha designado ningún Administrador, no existen Unidades de Inversión y no se ha captado capital alguno. El objetivo de €250 millones es una cifra de planificación, no un compromiso ni una valoración actual. Esto no es una oferta activa: no hay participaciones disponibles para suscripción en ninguna jurisdicción. El vehículo aún no cotiza en ninguna bolsa y aún no es una Entidad Regulada Emisora de Información bajo la ley de valores española. Cada mecanismo descrito arriba — la cotización técnica, los arreglos de liquidación, la estructura del Administrador — describe un diseño previsto, sujeto a cambios conforme avancen el registro regulatorio en España y la captación de capital.
+Professional Centres Spain SOCIMI aún no es una entidad legal constituida. No se ha designado ningún Administrador, no existen Unidades de Inversión y no se ha captado capital alguno. El objetivo de €250 millones es una cifra de planificación, no un compromiso ni una valoración actual. Esto no es una oferta activa: no hay participaciones disponibles para suscripción en ninguna jurisdicción. El vehículo no cotiza en ninguna bolsa ni es una Entidad Regulada Emisora de Información bajo la ley de valores española. Cada mecanismo descrito arriba — cotización técnica, arreglos de liquidación, estructura del Administrador — describe un diseño previsto, sujeto a cambios conforme avancen el registro regulatorio y la captación de capital.
 
 ## Consulte también
 

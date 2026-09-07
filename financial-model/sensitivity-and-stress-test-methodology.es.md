@@ -51,7 +51,7 @@ Todos los escenarios de estrés y de choque de esta metodología son modelados e
 
 ## Lo que esto no es
 
-Ninguna de las cifras de cobertura, NAV o distribución que produce esta metodología es un pronóstico. Cada escenario se construye a partir de supuestos declarados, y los resultados reales diferirán de todos ellos. La metodología aún no se ha aplicado a una cartera en operación — ninguna Solución de Tenencia Directa ha emitido un debenture ni ha alcanzado la fase estabilizada cuya cobertura describen los escenarios, de modo que el caso base es un conjunto de supuestos, no un historial. La respuesta adaptativa de desarrollo y la disposición correctiva de último recurso son comportamientos de gestión modelados, no compromisos de actuar. La tabla de sensibilidad de la NIIF 13 es una convención de divulgación de medición a valor razonable, no una estimación de resultados probables.
+Ninguna cifra de cobertura, NAV o distribución de esta metodología es un pronóstico. Cada escenario se construye a partir de supuestos declarados; los resultados reales diferirán. La metodología aún no se ha aplicado a una cartera en operación — ninguna Solución de Tenencia Directa ha emitido un debenture ni alcanzado la fase estabilizada que describen los escenarios, de modo que el caso base es un conjunto de supuestos, no un historial. La respuesta adaptativa de desarrollo y la disposición correctiva de último recurso son comportamientos modelados, no compromisos de actuar. La tabla de sensibilidad de la NIIF 13 es una convención de divulgación a valor razonable, no una estimación de resultados probables.
 
 ## Consulte también
 

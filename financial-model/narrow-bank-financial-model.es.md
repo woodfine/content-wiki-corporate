@@ -70,7 +70,7 @@ El Modelo Financiero Narrow Bank tiene varias consecuencias estructurales que lo
 
 ## Lo que esto no es
 
-No se ha emitido ninguna Obligación con Primera Hipoteca Garantizada. La fase de deuda, el convenio de cobertura que la condiciona, la retención del 10% del ingreso distribuible y la trayectoria de desapalancamiento son el diseño previsto del modelo, no un historial operativo. Solo está constituido el vehículo de Canadá, Professional Centres Canada LP, y sus unidades están sujetas a una orden de suspensión de negociación vigente de la British Columbia Securities Commission; los vehículos de Estados Unidos, España y México están planificados. Aún no existe una cartera completada frente a la cual se hayan probado la fase de capital o el techo de apalancamiento. Este artículo describe la disciplina de financiamiento que las Direct-Hold Solutions están diseñadas para seguir — no deuda actualmente vigente, y no es una oferta de valores.
+No se ha emitido ninguna Obligación con Primera Hipoteca Garantizada. La fase de deuda, su convenio de cobertura, la retención del 10% del ingreso distribuible y la trayectoria de desapalancamiento son el diseño previsto, no un historial operativo. Solo está constituido el vehículo de Canadá, Professional Centres Canada LP, sujeto a una orden de suspensión de negociación vigente de la British Columbia Securities Commission; los vehículos de Estados Unidos, España y México están planificados. Ninguna cartera completada ha probado aún la fase de capital ni el techo de apalancamiento. Este artículo describe la disciplina de financiamiento prevista para las Direct-Hold Solutions — no deuda vigente, y no una oferta de valores.
 
 ## Consulte también
 

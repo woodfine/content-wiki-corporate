@@ -58,7 +58,7 @@ El término "tarifas preservadas" se refiere a la contribución a los gastos gen
 
 ## Lo que esto no es
 
-Actualmente no se paga ninguna compensación bajo este modelo. Ninguna oferta de participaciones se ha cerrado, por lo que no se ha emitido ninguna unidad de Compensación Basada en Capital, ninguna se mantiene en fideicomiso, y no existe Capital Retenido en el balance de ningún vehículo. La contribución anual a los gastos generales y el reembolso único de costos de oferta están previstos en el acuerdo rector del vehículo de Canadá ya constituido; ninguno se ha activado por una oferta cerrada. El fondo de tarifas preservadas para los Gestores de Activos independientes describe una asignación prevista, no tarifas que alguien reciba hoy. Este artículo expone la estructura de compensación que las Direct-Hold Solutions están diseñadas para aplicar a medida que cada vehículo se financie — no montos pagados, ganados o devengados hasta la fecha.
+Actualmente no se paga compensación bajo este modelo. Ninguna oferta se ha cerrado: no se ha emitido unidad de Compensación Basada en Capital alguna, ninguna se mantiene en fideicomiso, y no existe Capital Retenido en el balance de ningún vehículo. La contribución anual a gastos generales y el reembolso de costos de oferta están previstos en el acuerdo del vehículo de Canadá ya constituido, pero ninguno se ha activado. El fondo de tarifas preservadas para Gestores de Activos independientes describe una asignación prevista, no tarifas recibidas hoy. Este artículo expone la estructura que las Direct-Hold Solutions están diseñadas para aplicar al financiarse — no montos pagados, ganados o devengados a la fecha.
 
 ## Consulte también
 

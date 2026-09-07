@@ -67,7 +67,7 @@ The Private FIBRA is the only one of the three built for a hold-and-lease busine
 
 ## What this is not
 
-Professional Centres Mexico FIBRA is not yet a formed trust. No Bank has yet been engaged as fiduciary, no Technical Committee members have yet been named, and the trust has not filed with, or been registered by, any Mexican regulator. This is not an active offering: no CBFIs have been issued, and no investor has subscribed for units. The MN$5,000 million gross funded value referenced in the [[four-jurisdiction-framework|Four-Jurisdiction Framework]] is a target the trust may pursue once established, not a commitment, a raised amount, or a current valuation. Every mechanism this article describes — the Subsidiary Silo model, the fiscal-transparency treatment, the Cebures debt program, the Private FIBRA registration — is a planned design, not yet in operation.
+Professional Centres Mexico FIBRA is not yet a formed trust. No Bank has been engaged as fiduciary, no Technical Committee members have been named, and the trust has not filed with, or been registered by, any Mexican regulator. This is not an active offering: no CBFIs have been issued, and no investor has subscribed for units. The MN$5,000 million gross funded value referenced in the [[four-jurisdiction-framework|Four-Jurisdiction Framework]] is a target the trust may pursue once established, not a commitment or a raised amount. Every mechanism this article describes — the Subsidiary Silo model, fiscal-transparency treatment, the Cebures debt program, the Private FIBRA registration — is a planned design, not yet in operation.
 
 ## See also
 
