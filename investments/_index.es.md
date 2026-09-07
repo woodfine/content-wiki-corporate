@@ -28,6 +28,18 @@ participaciones.
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Por dónde empezar
+
+Doce artículos integran esta categoría, entre la estructura misma, su forma jurídica en cada
+jurisdicción, y las exenciones bajo las cuales se venden las participaciones. Estos cuatro
+responden en orden las preguntas del asignador de capital: qué es la estructura, qué
+representa una participación, dónde existen los vehículos, y quién puede suscribir.
+
+- [[direct-hold-framework|Marco de Tenencia Directa]] — Cada activo es su propia unidad jurídica y financiera. Un evento financiero que afecte a uno no puede propagarse al capital que el inversor mantiene en otro.
+- [[investment-units|Unidades de Inversión]] — Qué representa una participación: un interés proporcional en un único vehículo nombrado, sin derecho alguno sobre otra propiedad. Cubre además las restricciones de transferencia de las participaciones del vehículo canadiense.
+- [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]] — La arquitectura de despliegue en Canadá, Estados Unidos, España y México. Un vehículo está constituido; tres están planificados. Es el artículo más citado de esta categoría.
+- [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]] — Quién califica para suscribir bajo el IN 45-106, y qué exige la exención en el momento de la suscripción.
+
 ## La estructura de tenencia directa
 
 Cada Solución de Tenencia Directa emite participaciones en un único vehículo nombrado, no

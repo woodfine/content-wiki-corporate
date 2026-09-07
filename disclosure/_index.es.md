@@ -26,6 +26,19 @@ Informes y Divulgación explica qué significa la divulgación continua para un 
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Por dónde empezar
+
+Quince artículos integran esta categoría: nueve explican una obligación de divulgación, dos
+describen los canales de comunicación, y uno corresponde a cada vehículo. Estos cinco son la
+ruta más corta a través de los tres grupos. Cubren qué exige el régimen, dónde se presentan
+los documentos, qué obliga a comunicar de inmediato, y la única entidad que hoy divulga.
+
+- [[about-continuous-disclosure|Divulgación Continua y Publicación en el Wiki]] — El régimen del IN 51-102 que se prevé vincule a Woodfine una vez que entre en vigor su oferta de prospecto planificada. Establece además por qué los artículos de este wiki se tratan como material divulgable.
+- [[about-filing-systems|Sistemas de Presentación]] — SEDAR+, donde se presenta y se consulta sin cargo toda la documentación exigida. Es el artículo más citado de esta categoría.
+- [[about-material-change-reporting|Informes de Cambios Materiales]] — La obligación más urgente del régimen: un cambio material se divulga el mismo día, no en la siguiente presentación programada.
+- [[press-releases|Comunicados de prensa e informes de cambios materiales]] — El canal en tiempo real que Woodfine prevé usar ante cambios materiales. No se ha emitido ningún comunicado hasta la fecha.
+- [[canada-disclosure|Canadá]] — Professional Centres Canada LP, el único vehículo constituido, y lo que presenta ante la Comisión de Valores de Columbia Británica.
+
 ## Cómo funciona la divulgación
 
 La divulgación continua es el conjunto permanente de presentaciones que hace un emisor que

@@ -27,6 +27,18 @@ jurisdiction, and the exemptions under which units are distributed.
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Where to start
+
+Twelve articles sit in this category, across the structure itself, its legal form in each
+jurisdiction, and the exemptions under which units are sold. These four answer the questions
+an allocator asks in order: what the structure is, what a unit represents, where the
+vehicles exist, and who may subscribe.
+
+- [[direct-hold-framework|Direct-hold framework]] — Each asset is its own legal and financial unit. A financial event affecting one cannot propagate to an investor's equity in another.
+- [[investment-units|Investment units]] — What a unit represents: a proportional interest in one named vehicle, with no claim on any other property. Also covers the transfer restrictions on the Canada vehicle's units.
+- [[four-jurisdiction-framework|Four-jurisdiction framework]] — The deployment architecture across Canada, the United States, Spain, and Mexico. One vehicle is established; three are planned. The most-cited article in this category.
+- [[accredited-investor-eligibility|Accredited investor eligibility]] — Who qualifies to subscribe under NI 45-106, and what the exemption requires at the time of subscription.
+
 ## The direct-hold structure
 
 Each Direct-Hold Solution issues equity units in one named vehicle, not a share in a pooled

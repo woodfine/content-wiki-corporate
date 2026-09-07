@@ -26,6 +26,19 @@ Reports and Disclosure explains what continuous disclosure means for a reporting
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
+## Where to start
+
+Fifteen articles sit in this category: nine explain a disclosure obligation, two describe
+the communication channels, and one covers each vehicle. These five are the shortest route
+through all three groups. They cover what the regime requires, where filings land, what
+forces immediate news, and the one entity filing today.
+
+- [[about-continuous-disclosure|Continuous disclosure and wiki publication]] — The NI 51-102 regime planned to bind Woodfine upon effectiveness of its planned prospectus offering. It also sets out why articles on this wiki are treated as disclosure-eligible.
+- [[about-filing-systems|Filing systems]] — SEDAR+, where every required filing is lodged and searchable without charge. The most-cited article in this category.
+- [[about-material-change-reporting|Material change reporting]] — The most time-sensitive obligation in the regime: a material change is disclosed the same day, not at the next scheduled filing.
+- [[press-releases|Press releases and material change reports]] — The real-time channel Woodfine plans to use for material changes. No release has been issued to date.
+- [[canada-disclosure|Canada]] — Professional Centres Canada LP, the one established vehicle, and what it files with the British Columbia Securities Commission.
+
 ## How disclosure works
 
 Continuous disclosure is the ongoing set of filings a reporting issuer makes after an
