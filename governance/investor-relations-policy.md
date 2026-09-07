@@ -84,8 +84,8 @@ The purpose is twofold. First, a quiet period is intended to protect the issuer 
 confirming or denying analysts' estimates — which would be guidance through a selective
 channel — at the moment when internal reporting is being consolidated and management is most
 likely to know the quarter's actual outcome. Second, it would create a predictable, publicly
-understood period in which all market participants know the issuer will not communicate
-privately, reducing the risk of rumour-driven trading.
+understood period in which all market participants understand the issuer does not intend to
+communicate privately, reducing the risk of rumour-driven trading.
 
 The restriction is intended to reach statements that could constitute guidance, confirmation
 of estimates, or disclosure of information not yet publicly filed. Within a quiet period the
@@ -112,8 +112,8 @@ the issuer to update guidance every quarter as conditions change.
 
 ### Updating or withdrawing guidance
 
-Where guidance has been given and later becomes unreliable before the next scheduled
-disclosure, the issuer must determine whether the change is material. A material change
+Where guidance has been given and may later become unreliable before the next scheduled
+disclosure, the issuer is intended to determine whether the change is material. A material change
 requires an immediate press release updating or withdrawing the guidance. Under the planned
 policy, the Chief Financial Officer would make that determination in consultation with legal
 counsel, and would document the decision and its basis for the audit file.
