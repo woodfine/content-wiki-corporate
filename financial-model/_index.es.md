@@ -53,6 +53,7 @@ de la comisión y la contribución fija anual por gastos generales que la acompa
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: compensation-and-alignment -->
 - [[principal-alignment-fee-preservation]] — Modelo de compensación previsto para reemplazar el 2/20: beneficio del desarrollador en capital en fideicomiso hasta devolver el capital del inversor, más una contribución fija anual.
+- [[promoter-equity-escrow]] — Por qué la compensación basada en capital del promotor se mantiene en fideicomiso a través de los cuatro vehículos de Solución de Tenencia Directa, cuál es la condición de liberación, y qué entidad la mantiene en cada jurisdicción.
 <!-- END AUTO-GENERATED -->
 
 ## Metodología de valoración y proyección

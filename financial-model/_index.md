@@ -51,6 +51,7 @@ the fee mechanics and the fixed annual overhead contribution paid alongside it.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: compensation-and-alignment -->
 - [[principal-alignment-fee-preservation]] — Compensation model planned to replace the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution.
+- [[promoter-equity-escrow]] — Why the promoter's equity-based compensation is held in escrow across all four Direct-Hold Solution vehicles, what the release condition is, and which entity holds it in each jurisdiction.
 <!-- END AUTO-GENERATED -->
 
 ## Valuation and forecasting methodology
