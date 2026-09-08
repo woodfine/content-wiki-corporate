@@ -71,6 +71,7 @@ and each vehicle's specific structure in turn.
 - [[professional-centres-united-states-lp-structure]] — The planned legal and operating structure of Professional Centres United States LP at the limited-partnership level — the Delaware LP form, general-partner governance, Public Non-Traded status, and settlement arrangements — distinct from the corporate-parent and four-jurisdiction overview articles.
 - [[professional-centres-spain-socimi-structure]] — The planned legal and operating structure of Professional Centres Spain SOCIMI at the vehicle level — the statutory listing mandate, the technical-listing mechanism, the Administrator role, and settlement arrangements — distinct from the corporate-parent and four-jurisdiction overview articles.
 - [[professional-centres-mexico-fibra-structure]] — The planned trust-level structure of Professional Centres Mexico FIBRA — the Bank-fiduciary/Technical Committee governance split, the Subsidiary Silo liability model, Article 187/188 LISR fiscal transparency, and how the Private FIBRA form compares with Mexico's FICAP and S.A.P.I. alternatives — distinct from the corporate-parent and four-jurisdiction overview articles.
+- [[woodfine-common-shares]] — The parent-level equity of Woodfine Capital Projects Inc. itself — distinct from the Investment Units issued by each Direct-Hold Solution vehicle.
 <!-- END AUTO-GENERATED -->
 
 ## Investor Eligibility and Offering Exemptions
@@ -84,6 +85,7 @@ the accredited investor test in detail.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-eligibility-and-offering-exemptions -->
 - [[exemptions]] — Prospectus exemptions relied upon in each jurisdiction's offering: the accredited investor exemption and the parallel prospectus channel.
 - [[accredited-investor-eligibility]] — The accredited investor exemption under NI 45-106 as a distribution channel for units in the Canada and United States direct-hold limited partnerships alongside the prospectus offering: who qualifies, what the exemption permits, and the disclosure documentation required at the time of subscription.
+- [[plan-of-distribution]] — How Investment Units are intended to reach an investor: a best-efforts agency offering, a Lead Agent for each vehicle, and subscription funds held in trust pending closing.
 <!-- END AUTO-GENERATED -->
 
 ## See also

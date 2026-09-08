@@ -74,6 +74,7 @@ jurisdicciones, y la estructura específica de cada vehículo por separado.
 - [[professional-centres-united-states-lp-structure]] — La estructura jurídica y operativa planificada de Professional Centres United States LP a nivel del vehículo — la forma de sociedad en comandita de Delaware, la gobernanza del socio general, el estatus Public Non-Traded y los arreglos de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
 - [[professional-centres-spain-socimi-structure]] — La estructura jurídica y operativa planificada de Professional Centres Spain SOCIMI a nivel del vehículo — el mandato legal de cotización, el mecanismo de cotización técnica, el rol del Administrador y los arreglos de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
 - [[professional-centres-mexico-fibra-structure]] — La estructura prevista, a nivel de fideicomiso, de Professional Centres Mexico FIBRA — la división de gobernanza entre el Banco fiduciario y el Comité Técnico, el modelo de aislamiento de responsabilidad por subsidiaria, la transparencia fiscal de los Artículos 187/188 de la LISR, y cómo se compara la forma de FIBRA Privada con las alternativas mexicanas de FICAP y S.A.P.I. — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
+- [[woodfine-common-shares]] — El capital a nivel de matriz de Woodfine Capital Projects Inc. misma — distinto de las Unidades de Inversión que emite cada vehículo de Solución de Tenencia Directa.
 <!-- END AUTO-GENERATED -->
 
 ## Elegibilidad del Inversionista y Exenciones de Oferta
@@ -88,6 +89,7 @@ acreditado.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-eligibility-and-offering-exemptions -->
 - [[exemptions]] — Exenciones de prospecto utilizadas en la oferta de cada jurisdicción: la exención de inversionista acreditado y el canal paralelo de prospecto.
 - [[accredited-investor-eligibility]] — La exención de inversionista acreditado bajo la NI 45-106 como canal de distribución para participaciones en las sociedades en comandita de tenencia directa de Canadá y Estados Unidos, junto con la oferta pública mediante prospecto: quién califica, qué permite la exención y la documentación de divulgación requerida en el momento de la suscripción.
+- [[plan-of-distribution]] — Cómo se pretende que las Unidades de Inversión lleguen a un inversionista: una oferta de agencia por mejores esfuerzos, un Agente Líder por cada vehículo, y los fondos de suscripción mantenidos en fideicomiso hasta el cierre.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también
