@@ -54,7 +54,7 @@ La Professional Centres United States LP está prevista para constituirse en Del
 
 La Professional Centres Spain SOCIMI está prevista para constituirse en Madrid como Sociedad Cotizada de Inversión en el Mercado Inmobiliario. El SOCIMI es el vehículo inmobiliario de flujo directo de España. Bajo la ley española, el estado SOCIMI confiere exención del impuesto de sociedades sobre rentas de alquiler y plusvalías calificadas, sujeto a cotización obligatoria en un mercado regulado.
 
-El vehículo de España lleva un requisito de cotización estatutaria que no aplica en Canadá, Estados Unidos o México: para mantener el estado de exención fiscal del SOCIMI, el vehículo debe estar admitido a negociación en un mercado regulado, como BME Growth o el mercado principal de la Bolsa de Madrid. La divulgación continua está prevista para presentarse ante el regulador español de mercados de valores, la Comisión Nacional del Mercado de Valores (CNMV), a través de su sistema de Sede Electrónica. El valor financiado bruto objetivo es €250 millones.
+El vehículo de España lleva un requisito de cotización estatutaria que no aplica en Canadá, Estados Unidos o México: para mantener el estado de exención fiscal del SOCIMI, el vehículo debe estar admitido a negociación en un mercado regulado — una cotización técnica en la Portfolio Stock Exchange (PSE). La divulgación continua está prevista para presentarse ante el regulador español de mercados de valores, la Comisión Nacional del Mercado de Valores (CNMV), a través de su sistema de Sede Electrónica. El valor financiado bruto objetivo es €250 millones.
 
 ## México — Professional Centres Mexico FIBRA
 
